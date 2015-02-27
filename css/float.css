@@ -1,0 +1,18 @@
+/* html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+include these in all of your css documents. This allows you to use tutorials that include their own math system.*/
+
+p {
+    background-color: #009832;
+    border: 5px solid #000;
+}
+
+div { background-color: rgba(255, 0, 0, 0.5);
+    padding: 1em;
+}
